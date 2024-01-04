@@ -1,11 +1,12 @@
 ---
-title: "An example journal article"
+title: "Uncovering the influence of hydrological and climate variables in chlorophyll-A concentration in tropical reservoirs with machine learning"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Nunes Carvalho, T. M.
+- Lima Neto, I. E.
+- Souza Filho, F. D. A.
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -18,10 +19,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Environmental Science and Pollution Research"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Climate variability and change, associated with increasing water demands, can have significant implications for water availability. In the Brazilian semi-arid, eutrophication in reservoirs raises the risk of water scarcity. The reservoirs have also a high seasonal and annual variability of water level and volume, which can have important effects on chlorophyll-a concentration (Chla). Assessing the influence of climate and hydrological variability on phytoplankton growth can be important to find strategies to achieve water security in tropical regions with similar problems. This study explores the potential of machine learning models to predict Chla in reservoirs and to understand their relationship with hydrological and climate variables. The model is based mainly on satellite data, which makes the methodology useful for data-scarce regions. Tree-based ensemble methods had the best performances among six machine learning methods and one parametric model. This performance can be considered satisfactory as classical empirical relationships between Chla and phosphorus may not hold for tropical reservoirs. Water volume and the mix-layer depth are inversely related to Chla, while mean surface temperature, water level, and surface solar radiation have direct relationships with Chla. These findings provide insights on how seasonal climate prediction and reservoir operation might influence water quality in regions supplied by superficial reservoirs.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -33,9 +34,9 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
+url_pdf: [http://arxiv.org/pdf/1512.04133v1](https://link.springer.com/article/10.1007/s11356-022-21168-z)
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: 'https://github.com/taiscarvalho/chla-prediction-ce'
 url_poster: ''
 url_project: ''
 url_slides: ''
