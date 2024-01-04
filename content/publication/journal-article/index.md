@@ -4,9 +4,10 @@ authors:
 - Nunes Carvalho, T. M.
 - Lima Neto, I. E.
 - Souza Filho, F. D. A.
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
