@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: [http://arxiv.org/pdf/1512.04133v1](https://link.springer.com/article/10.1007/s11356-022-21168-z)
+url_pdf: [https://link.springer.com/article/10.1007/s11356-022-21168-z]
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: 'https://github.com/taiscarvalho/chla-prediction-ce'
 url_poster: ''
