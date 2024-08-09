@@ -77,5 +77,7 @@ social:
 highlight_name: true
 ---
 
-I am a researcher in the Earth and Environmental Sciences group at the Center for Scalable Data Analytics and Artificial Intelligence from Leipzig University. I am also associated with the Helmholtz Center for Environmental Research. My research integrates data science methods, including machine learning, optimization and text mining, to water resources planning and management. My current work is focused on the identification of the cascading impacts of natural hazards using text data.
+
+
+I am a researcher in the Earth and Environmental Sciences group at the Center for Scalable Data Analytics and Artificial Intelligence from Leipzig University. I am also associated with the Helmholtz Center for Environmental Research. My research integrates data science methods, including machine learning, optimization, and text mining, to water resources planning and management. My current work is focused on identifying the cascading impacts of natural hazards using text data.
 {style="text-align: justify;"}
