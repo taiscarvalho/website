@@ -22,24 +22,24 @@ organizations:
     url: https://scads.ai
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include water resources planning and management and natural hazards research.
+bio: I like to explore unusual data sources to support water resources planning and management and natural hazards research.
 
 # Interests to show in About widget
 interests:
-  - Natural hazards impacts assessment
+  - Natural hazards impact assessment
   - Natural language processing methods
-  - Data-driven approaches in water management
+  - Data-driven approaches for water management
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Civil Engineering (Water Resources)
+    - course: PhD in Water Resources
       institution: Federal University of Ceara
       year: 2023
-    - course: MEng in Civil Engineering (Water Resources)
+    - course: MSc in Water Resources
       institution: Federal University of Ceara
       year: 2019
-    - course: BSc in Environmental Engineering
+    - course: BSc in Environmental Engineering (Magna cum laude)
       institution: Federal University of Ceara
       year: 2016
 
