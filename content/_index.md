@@ -229,15 +229,15 @@ sections:
  #     title: Popular Topics
  #   design:
  #     columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
+ # - block: contact
+ #   id: contact
+ #   content:
+  #    title: Contact
+ #     subtitle:
  #     text: |-
  #       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: tais.carvalho@informatik.uni-leipzig.de
+      #email: tais.carvalho@informatik.uni-leipzig.de
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       #address:
@@ -255,11 +255,11 @@ sections:
      # coordinates:
      #   latitude: '37.4275'
      #   longitude: '-122.1697'  
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/taismncarvalho'
+      #contact_links:
+      #  - icon: twitter
+      #    icon_pack: fab
+       #   name: DM Me
+        #  link: 'https://twitter.com/taismncarvalho'
       #  - icon: skype
       #    icon_pack: fab
       #    name: Skype Me
@@ -269,15 +269,15 @@ sections:
       #    name: Zoom Me
       #    link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: true
+      #autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
+      #form:
+        #provider: netlify
+        #formspree:
+        #  id:
+        #netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: true
-    design:
-      columns: '2'
+         # captcha: true
+    #design:
+      #columns: '2'
 ---
