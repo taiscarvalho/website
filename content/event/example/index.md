@@ -1,5 +1,5 @@
 ---
-title: Beyond the surface: using NLP to map natural hazard impacts - ScaDS.AI Dresden/Leipzig
+title: 'Beyond the surface: using NLP to map natural hazard impacts - ScaDS.AI Dresden/Leipzig'
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: Germany
 
-summary: Beyond the Surface: Leveraging NLP to Map Global Natural Hazard Impacts.
+summary: 'Beyond the Surface: Leveraging NLP to Map Global Natural Hazard Impacts.'
 abstract: 'Understanding how natural hazards such as floods, droughts, and storms evolve into disasters requires comprehensive and accurate impact data. Recent advancements in natural language processing (NLP) and large language models (LLMs) offer promising tools to address the limitations of traditional data collection methods. This lecture introduces a novel approach to creating a global dataset of natural hazard impacts by analyzing the full text of peer-reviewed articles. By leveraging the capabilities of LLMs and Retrieval-Augmented Generation, I will demonstrate how we can extract and structure both quantitative and qualitative data across various impact classes from unstructured text.'
 
 # Talk start and end times.
