@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.sciencedirect.com/science/article/pii/S2667010021000123
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S2667010021000123'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/taiscarvalho/ml_waterdemand'
 url_poster: ''
