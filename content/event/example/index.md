@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Beyond the surface: using NLP to map natural hazard impacts - ScaDS.AI Dresden/Leipzig
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
@@ -10,15 +10,15 @@ address:
   city: Stanford
   region: CA
   postcode: '94305'
-  country: United States
+  country: Germany
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Beyond the Surface: Leveraging NLP to Map Global Natural Hazard Impacts.
+abstract: 'Understanding how natural hazards such as floods, droughts, and storms evolve into disasters requires comprehensive and accurate impact data. Recent advancements in natural language processing (NLP) and large language models (LLMs) offer promising tools to address the limitations of traditional data collection methods. This lecture introduces a novel approach to creating a global dataset of natural hazard impacts by analyzing the full text of peer-reviewed articles. By leveraging the capabilities of LLMs and Retrieval-Augmented Generation, I will demonstrate how we can extract and structure both quantitative and qualitative data across various impact classes from unstructured text.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-06-01T13:00:00Z'
+date_end: '2024-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -38,11 +38,11 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://x.com/Sca_DS/status/1807730876656037993
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch%3Fv%3DoeH57siRwcU&ved=2ahUKEwjc9qP1tOeHAxUL3wIHHSnUDnAQtwJ6BAgTEAI&usg=AOvVaw1HMsWeXxs-uoNEUbHjL8yC'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
