@@ -14,7 +14,7 @@ author_notes:
   - 'Equal contribution'
 
 date: '2013-07-01T00:00:00Z'
-doi: ''10.5194/egusphere-egu24-19940"
+doi: '10.5194/egusphere-egu24-19940'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''https://meetingorganizer.copernicus.org/EGU24/EGU24-19940.html?pdf"
+url_pdf: 'https://meetingorganizer.copernicus.org/EGU24/EGU24-19940.html?pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
