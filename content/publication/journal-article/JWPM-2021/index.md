@@ -34,7 +34,7 @@ featured: false
 #   url: ""
 url_pdf: 'https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29WR.1943-5452.0001310'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/taiscarvalho/chla-prediction-ce'
+url_dataset: 'https://github.com/taiscarvalho/ml_waterdemand'
 url_poster: ''
 url_project: ''
 url_slides: ''
