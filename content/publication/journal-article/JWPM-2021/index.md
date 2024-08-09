@@ -5,11 +5,11 @@ authors:
 - Souza Filho, F. D. A.
 - Porto, V. C.
 
-date: "2015-09-01T00:00:00Z"
+date: "2020-10-31T00:00:00Z"
 doi: "10.1061/(ASCE)WR.1943-5452.0001310"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: [https://link.springer.com/article/10.1007/s11356-022-21168-z]
+url_pdf: 'https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29WR.1943-5452.0001310'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: 'https://github.com/taiscarvalho/chla-prediction-ce'
 url_poster: ''
