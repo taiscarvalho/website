@@ -25,23 +25,23 @@ organizations:
 bio: I like to explore unusual data sources to support water resources planning and management and natural hazards research.
 
 # Interests to show in About widget
-interests:
-  - Natural hazards impact assessment
-  - Natural language processing methods
-  - Data-driven approaches for water management
+# interests:
+#  - Natural hazards impact assessment
+#  - Natural language processing methods
+#  - Data-driven approaches for water management
 
 # Education to show in About widget
-education:
-  courses:
-    - course: PhD in Water Resources
-      institution: Federal University of Ceara
-      year: 2023
-    - course: MSc in Water Resources
-      institution: Federal University of Ceara
-      year: 2019
-    - course: BSc in Environmental Engineering (Magna cum laude)
-      institution: Federal University of Ceara
-      year: 2016
+# education:
+#  courses:
+ #   - course: PhD in Water Resources
+  #    institution: Federal University of Ceara
+  #    year: 2023
+  #  - course: MSc in Water Resources
+  #    institution: Federal University of Ceara
+  #    year: 2019
+  #  - course: BSc in Environmental Engineering (Magna cum laude)
+  #    institution: Federal University of Ceara
+  #    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
