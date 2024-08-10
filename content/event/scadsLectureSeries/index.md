@@ -4,7 +4,7 @@ title: 'Beyond the surface: using NLP to map natural hazard impacts - ScaDS.AI D
 event: ScDS.AI Living Lab Lecture Series
 event_url: https://scads.ai/en/event/living-lab-lecture-series/beyond-the-surface-leveraging-nlp-to-map-global-natural-hazard-impacts/
 
-location: ScDS.AI Living Lab Lecture Series
+location: Online
 address:
   country: Germany
 
@@ -37,7 +37,7 @@ links:
 #    url: https://x.com/Sca_DS/status/1807730876656037993
 #url_code: ''
 #url_pdf: ''
-url_slides: '/Talk_July24_Scads-lecture-series.pdf'
+url_slides: 'static/Talk_July24_Scads-lecture-series.pdf'
 url_video: 'https://www.youtube.com/watch%3Fv%3DoeH57siRwcU&ved=2ahUKEwjc9qP1tOeHAxUL3wIHHSnUDnAQtwJ6BAgTEAI&usg=AOvVaw1HMsWeXxs-uoNEUbHjL8yC'
 
 # Markdown Slides (optional).
@@ -55,15 +55,3 @@ url_video: 'https://www.youtube.com/watch%3Fv%3DoeH57siRwcU&ved=2ahUKEwjc9qP1tOe
 #projects: 
 #  - example
 ---
-
-#{{% callout note %}}
-#Click on the **Slides** button above to view the built-in slides feature.
-#{{% /callout %}}
-
-#Slides can be added in a few ways:
-
-#- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-#- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-#- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-#Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
