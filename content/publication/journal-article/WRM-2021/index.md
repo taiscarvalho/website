@@ -5,7 +5,7 @@ authors:
 - Souza Filho, F. D. A.
 - Brito, M. M.
 
-date: "2024-04-09T00:00:00Z"
+date: "2021-08-01T00:00:00Z"
 doi: "10.1007/s11269-021-02902-7"
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,8 @@ publication_types: ["article-journal"]
 publication: "Water Resources Management"
 publication_short: ""
 
-abstract: "Climate variability highly influences water availability and demand in urban areas, but medium-term predictive models of residential water demand usually do not include climate variables. This study proposes a method to predict monthly residential water demand using temperature and precipitation, by combining a novel decomposition technique and gradient boost regression. The variational mode decomposition (VMD) was used to filter the water demand time series and remove the component associated with the socioeconomic characteristics of households. VMD was also used to extract the relevant signal from precipitation and maximum temperature series which could explain water demand. The results indicate that by filtering the water demand and climate signals we can obtain accurate predictionsat least four months in advance. These results suggest that the climate information can be used to explain and predict residential water demand."
+abstract: "Climate variability highly influences water availability and demand in urban areas, but medium-term predictive models of residential water demand usually do not include climate variables. This study proposes a method to predict monthly residential water demand using temperature and precipitation, by combining a novel decomposition technique and gradient boost regression. The variational mode decomposition (VMD) was used to filter the water demand time series and remove the component associated with the socioeconomic characteristics of households. VMD was also used to extract the relevant signal from precipitation and maximum temperature series which could explain water demand. The results indicate that by filtering the water demand and climate signals we can obtain accurate predictions
+at least four months in advance. These results suggest that the climate information can be used to explain and predict residential water demand."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
