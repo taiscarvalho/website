@@ -1,15 +1,11 @@
 ---
 title: 'Beyond the surface: using NLP to map natural hazard impacts - ScaDS.AI Dresden/Leipzig'
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: ScDS.AI Living Lab Lecture Series
+event_url: https://scads.ai/en/event/living-lab-lecture-series/beyond-the-surface-leveraging-nlp-to-map-global-natural-hazard-impacts/
 
-location: Hugo Blox Builder HQ
+location: ScDS.AI Living Lab Lecture Series
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
   country: Germany
 
 summary: 'Beyond the Surface: Leveraging NLP to Map Global Natural Hazard Impacts.'
@@ -17,8 +13,8 @@ abstract: 'Understanding how natural hazards such as floods, droughts, and storm
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-06-01T13:00:00Z'
-date_end: '2024-06-01T15:00:00Z'
+date: '2024-07-04T11:00:00Z'
+date_end: '2024-07-04T12:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -41,7 +37,7 @@ links:
 #    url: https://x.com/Sca_DS/status/1807730876656037993
 #url_code: ''
 #url_pdf: ''
-#url_slides: /Talk_July24_Scads-lecture-series.pdf
+url_slides: '/Talk_July24_Scads-lecture-series.pdf'
 url_video: 'https://www.youtube.com/watch%3Fv%3DoeH57siRwcU&ved=2ahUKEwjc9qP1tOeHAxUL3wIHHSnUDnAQtwJ6BAgTEAI&usg=AOvVaw1HMsWeXxs-uoNEUbHjL8yC'
 
 # Markdown Slides (optional).
@@ -49,7 +45,7 @@ url_video: 'https://www.youtube.com/watch%3Fv%3DoeH57siRwcU&ved=2ahUKEwjc9qP1tOe
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: /Talk_July24_Scads-lecture-series
+# slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
