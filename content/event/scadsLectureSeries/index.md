@@ -35,10 +35,10 @@ image:
   focal_point: Right
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://x.com/Sca_DS/status/1807730876656037993
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://x.com/Sca_DS/status/1807730876656037993
 url_code: ''
 url_pdf: ''
 url_slides: '/Talk_July24_Scads-lecture-series.pdf'
