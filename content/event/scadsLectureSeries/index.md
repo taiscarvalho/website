@@ -37,7 +37,7 @@ links:
 #    url: https://x.com/Sca_DS/status/1807730876656037993
 #url_code: ''
 #url_pdf: ''
-url_slides: 'upload/Talk_July24_Scads-lecture-series.pdf'
+url_slides: 'uploads/Talk_July24_Scads-lecture-series.pdf'
 url_video: 'https://www.youtube.com/watch%3Fv%3DoeH57siRwcU&ved=2ahUKEwjc9qP1tOeHAxUL3wIHHSnUDnAQtwJ6BAgTEAI&usg=AOvVaw1HMsWeXxs-uoNEUbHjL8yC'
 
 # Markdown Slides (optional).
