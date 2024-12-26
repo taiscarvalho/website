@@ -40,7 +40,7 @@ url_pdf: [https://link.springer.com/article/10.1007/s11356-022-21168-z]
 url_dataset: 'https://github.com/taiscarvalho/chla-prediction-ce'
 url_poster: ''
 url_project: ''
-url_slides: ''
+# url_slides: ''
 url_source: ''
 url_video: ''
 
