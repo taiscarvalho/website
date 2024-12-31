@@ -1,5 +1,5 @@
 ---
-title: 'Beyond the surface: using NLP to map natural hazard impacts - ScaDS.AI Dresden/Leipzig'
+title: 'Training School on Statistical Modelling of Compound Events'
 
 event: Training School on Statistical Modelling of Compound Events
 event_url: https://smce.lakecomoschool.org
