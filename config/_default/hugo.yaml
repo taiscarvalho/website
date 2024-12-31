@@ -39,6 +39,7 @@ imaging:
   resampleFilter: lanczos
   quality: 100
   format: png
+  compression: none
   anchor: smart
 timeout: 600000
 taxonomies:
