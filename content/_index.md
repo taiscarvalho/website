@@ -218,7 +218,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Talks and Conferences#Recent & Upcoming Talks
+      title: Talks and Conferences
       filters:
         folders:
           - event
