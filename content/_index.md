@@ -218,7 +218,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Talks and Conferences
+      title: Talks and Events
       filters:
         folders:
           - event
