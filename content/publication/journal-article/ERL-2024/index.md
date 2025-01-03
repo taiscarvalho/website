@@ -37,7 +37,7 @@ url_pdf: 'https://iopscience.iop.org/article/10.1088/1748-9326/ad37cd/meta'
 #url_dataset: 'https://github.com/taiscarvalho/ml_waterdemand'
 url_poster: ''
 url_project: ''
-url_slides: ''uploads/Talk_23_TU_Berlin_Unveiling-water-allocation-dynamics.pdf''
+url_slides: 'uploads/Talk_23_TU_Berlin_Unveiling-water-allocation-dynamics.pdf'
 url_source: ''
 url_video: ''
 
@@ -60,7 +60,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 
 # Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
 ---
