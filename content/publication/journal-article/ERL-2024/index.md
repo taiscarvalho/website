@@ -37,7 +37,7 @@ url_pdf: 'https://iopscience.iop.org/article/10.1088/1748-9326/ad37cd/meta'
 #url_dataset: 'https://github.com/taiscarvalho/ml_waterdemand'
 url_poster: ''
 url_project: ''
-# url_slides: ''
+url_slides: ''uploads/Talk_23_TU_Berlin_Unveiling-water-allocation-dynamics.pdf''
 url_source: ''
 url_video: ''
 

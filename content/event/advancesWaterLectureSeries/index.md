@@ -1,7 +1,7 @@
 ---
-title: 'Beyond the surface: using NLP to map natural hazard impacts - ScaDS.AI Dresden/Leipzig'
+title: 'Unveiling Water Allocation Dynamics'
 
-event: ScDS.AI Living Lab Lecture Series
+event: Advances in Water Management and Climate Adaptation - Lecture Series
 event_url: https://scads.ai/en/event/living-lab-lecture-series/beyond-the-surface-leveraging-nlp-to-map-global-natural-hazard-impacts/
 
 location: Online
