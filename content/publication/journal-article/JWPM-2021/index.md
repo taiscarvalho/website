@@ -37,7 +37,7 @@ url_pdf: 'https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29WR.1943-5452.0001310
 url_dataset: 'https://github.com/taiscarvalho/ml_waterdemand'
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'uploads/Talk_Aprendizado-maquina-demanda.pdf'
 url_source: ''
 url_video: ''
 
@@ -60,7 +60,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: 'uploads/Talk_Aprendizado-maquina-demanda.pdf'
+slides: 
 
 # Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
 ---
