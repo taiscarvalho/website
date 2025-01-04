@@ -9,7 +9,8 @@ address:
   country: Sweden
 
 summary: 'We developed an exercise for the summer school on the impacts of climate extremes, promoted by the Swedish Center for impacts of climate extremes (CLIMES).'
-abstract: 'We developed an exercise for the summer school on the impacts of climate extremes, promoted by the Swedish Center for impacts of climate extremes. This exercise aimed to use large language models (LLMs) to extract information about impacts of climate extremes from textual sources and then critically evaluate the results from multiple quantitative and qualitative perspectives. In doing this, the exercise combined the different topics covered by the lectures throughout the week.'
+abstract: 'We developed an exercise for the summer school on the impacts of climate extremes, promoted by the Swedish Center for impacts of climate extremes. This exercise aimed to use large language models (LLMs) to extract information about impacts of climate extremes from textual sources and then critically evaluate the results from multiple quantitative and qualitative perspectives. In doing this, the exercise combined the different topics covered by the lectures throughout the week.
+![Image alt](group_picture.png)'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -29,9 +30,7 @@ featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
-  
-![Image alt](group_picture.png)
-
+ 
 links:
 #  - icon: twitter
 #    icon_pack: fab
