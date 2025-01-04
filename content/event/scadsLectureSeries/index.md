@@ -9,7 +9,8 @@ address:
   country: Germany
 
 summary: 'Beyond the Surface: Leveraging NLP to Map Global Natural Hazard Impacts.'
-abstract: 'Understanding how natural hazards such as floods, droughts, and storms evolve into disasters requires comprehensive and accurate impact data. Recent advancements in natural language processing (NLP) and large language models (LLMs) offer promising tools to address the limitations of traditional data collection methods. This lecture introduces a novel approach to creating a global dataset of natural hazard impacts by analyzing the full text of peer-reviewed articles. By leveraging the capabilities of LLMs and Retrieval-Augmented Generation, I will demonstrate how we can extract and structure both quantitative and qualitative data across various impact classes from unstructured text.'
+abstract: 'Understanding how natural hazards such as floods, droughts, and storms evolve into disasters requires comprehensive and accurate impact data. Recent advancements in natural language processing (NLP) and large language models (LLMs) offer promising tools to address the limitations of traditional data collection methods. This lecture introduces a novel approach to creating a global dataset of natural hazard impacts by analyzing the full text of peer-reviewed articles. By leveraging the capabilities of LLMs and Retrieval-Augmented Generation, I will demonstrate how we can extract and structure both quantitative and qualitative data across various impact classes from unstructured text.
+![Image alt](banner.png)'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
