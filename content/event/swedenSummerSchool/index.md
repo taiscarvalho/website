@@ -1,5 +1,5 @@
 ---
-title: 'Interdisciplinary School on Impacts of Climate Extremes'
+title: 'Investigating the impacts of climate extremes through multiple lenses'
 
 event: Interdisciplinary School on Impacts of Climate Extremes
 event_url: https://www.climes.se/summerschool/
@@ -8,13 +8,13 @@ location: Uppsala, Sweden
 address:
   country: Sweden
 
-summary: 'A global database of the impacts of extreme events from text data.'
-abstract: 'In this project, we aim to extract detailed information on the impacts of extreme events (e.g., floods, storms, and droughts) based on Red Cross reports. By analyzing these reports, we will gather comprehensive data on both direct and indirect impacts on society and the environment. This includes metrics like fatalities, economic losses, and increases in migration. Since the Red Cross focuses especially on the Global South, we expect to address spatial biases common in global impact databases (e.g., EM-DAT focuses on Europe and the US). We will use natural language processing (NLP) tools to extract structured information from the reports. Our approach will incorporate both supervised classification methods (e.g., Sodoge et al., 2023) and large language models (LLMs) (e.g., Carvalho et al., 2024).'
+summary: 'We developed an exercise for the summer school on the impacts of climate extremes, promoted by the Swedish Center for impacts of climate extremes (CLIMES).'
+abstract: 'We developed an exercise for the summer school on the impacts of climate extremes, promoted by the Swedish Center for impacts of climate extremes. This exercise aimed to use large language models (LLMs) to extract information about impacts of climate extremes from textual sources and then critically evaluate the results from multiple quantitative and qualitative perspectives. In doing this, the exercise combined the different topics covered by the lectures throughout the week.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-07-04T11:00:00Z'
-date_end: '2024-07-04T12:00:00Z'
+date: '2024-06-17T11:00:00Z'
+date_end: '2024-06-20T12:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -37,8 +37,8 @@ links:
 #    url: https://x.com/Sca_DS/status/1807730876656037993
 #url_code: ''
 #url_pdf: ''
-url_slides: 'uploads/Talk_July24_Scads-lecture-series.pdf'
-#url_video: 'https://www.youtube.com/watch%3Fv%3DoeH57siRwcU&ved=2ahUKEwjc9qP1tOeHAxUL3wIHHSnUDnAQtwJ6BAgTEAI&usg=AOvVaw1HMsWeXxs-uoNEUbHjL8yC'
+url_slides: 'uploads/Presentation_Jun24_Climes_exercise.pdf'
+#url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
