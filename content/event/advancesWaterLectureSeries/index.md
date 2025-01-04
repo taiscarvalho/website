@@ -2,14 +2,14 @@
 title: 'Unveiling Water Allocation Dynamics'
 
 event: Advances in Water Management and Climate Adaptation - Lecture Series
-event_url: https://scads.ai/en/event/living-lab-lecture-series/beyond-the-surface-leveraging-nlp-to-map-global-natural-hazard-impacts/
+event_url: https://www.tu.berlin/en/swn/study-and-teaching/courses/advances-in-water-management-and-climate-adaptation
 
 location: Online
 address:
   country: Germany
 
-summary: 'Beyond the Surface: Leveraging NLP to Map Global Natural Hazard Impacts.'
-abstract: 'Understanding how natural hazards such as floods, droughts, and storms evolve into disasters requires comprehensive and accurate impact data. Recent advancements in natural language processing (NLP) and large language models (LLMs) offer promising tools to address the limitations of traditional data collection methods. This lecture introduces a novel approach to creating a global dataset of natural hazard impacts by analyzing the full text of peer-reviewed articles. By leveraging the capabilities of LLMs and Retrieval-Augmented Generation, I will demonstrate how we can extract and structure both quantitative and qualitative data across various impact classes from unstructured text.'
+summary: 'Managing water resources in regions with high climate variability and frequent extreme weather events poses challenges for policymakers. To facilitate water allocation in these cases, participatory and collaborative decision-making approaches have become common. However, the evaluation of these approaches is hindered by the lack of structured methods and data to understand them. To address this knowledge gap, we propose a novel methodology that leverages text data to identify key topics, conflicts, and influential actors that shape water allocation dynamics. Our methodology is tested using records of 1020 water basin committee meetings held between 1997 and 2021 across 12 basin committees in Ceará, Brazil—a region known for its extensive history of droughts that have impacted water governance.'
+abstract: 'The lecture series on "Advances in Water Management and Climate Adaptation" is a comprehensive course designed to explore the latest techniques, tools, technologies, strategies, and policies in managing water resources and adapting to the challenges posed by climate change.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -38,7 +38,7 @@ links:
 #url_code: ''
 #url_pdf: ''
 url_slides: 'uploads/Talk_23_TU_Berlin_Unveiling-water-allocation-dynamics.pdf'
-url_video: 'https://www.youtube.com/watch%3Fv%3DoeH57siRwcU&ved=2ahUKEwjc9qP1tOeHAxUL3wIHHSnUDnAQtwJ6BAgTEAI&usg=AOvVaw1HMsWeXxs-uoNEUbHjL8yC'
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
