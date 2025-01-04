@@ -8,8 +8,8 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2023-09-01T00:00:00Z"
+doi: "10.1007/s11356-022-21168-z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-10-01T00:00:00Z"
