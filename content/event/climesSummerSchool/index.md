@@ -27,9 +27,10 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-#image:
-#  caption: ''
-#  focal_point: Right
+image:
+  caption: ''
+  focal_point: Right
+  preview_only: true
  
 links:
 #  - icon: twitter
