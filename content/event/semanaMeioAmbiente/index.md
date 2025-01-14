@@ -14,8 +14,8 @@ abstract: 'O desenvolvimento das cidades está frequentemente associado a um cre
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-07-04T11:00:00Z'
-date_end: '2024-07-04T12:00:00Z'
+date: '2022-05-12T11:00:00Z'
+date_end: '2022-05-12T12:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

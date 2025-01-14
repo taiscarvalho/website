@@ -14,8 +14,8 @@ abstract: 'Managing water resources in regions with high climate variability and
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-07-04T11:00:00Z'
-date_end: '2024-07-04T12:00:00Z'
+date: '2023-11-14T16:00:00Z'
+date_end: '2023-11-14T17:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

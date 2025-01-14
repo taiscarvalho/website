@@ -2,7 +2,7 @@
 title: 'Beyond the surface: using NLP to map natural hazard impacts - ScaDS.AI Dresden/Leipzig'
 
 event: ScDS.AI Living Lab Lecture Series
-event_url: https://scads.ai/en/event/living-lab-lecture-series/beyond-the-surface-leveraging-nlp-to-map-global-natural-hazard-impacts/
+event_url: https://scads.ai/event/living-lab-lecture-series/beyond-the-surface-leveraging-nlp-to-map-global-natural-hazard-impacts/
 
 location: Online
 address:

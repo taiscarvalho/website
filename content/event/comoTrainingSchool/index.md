@@ -14,9 +14,9 @@ abstract: 'In this project, we aim to extract detailed information on the impact
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-07-04T11:00:00Z'
-date_end: '2024-07-04T12:00:00Z'
-all_day: false
+date: '2024-09-24T11:00:00Z'
+date_end: '2024-10-04T12:00:00Z'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'

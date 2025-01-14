@@ -2,7 +2,7 @@
 title: 'Investigating the impacts of climate extremes through multiple lenses'
 
 event: Interdisciplinary School on Impacts of Climate Extremes
-event_url: https://www.climes.se/summerschool/
+event_url: https://www.climes.se/summerschool/summerschool2024/
 
 location: Uppsala, Sweden
 address:
@@ -16,7 +16,7 @@ abstract: 'We developed an exercise for the summer school on the impacts of clim
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-06-17T11:00:00Z'
 date_end: '2024-06-20T12:00:00Z'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
