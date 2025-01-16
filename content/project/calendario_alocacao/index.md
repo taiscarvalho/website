@@ -13,11 +13,11 @@ image:
   focal_point: Smart
   preview_only: true
 
-links:
-  - icon: browser
-    icon_pack: fab
-    name: Media
-    url: ''
+#links:
+#  - icon: browser
+#    icon_pack: fab
+#    name: Media
+#    url: ''
 url_code: ''
 url_pdf: ''
 url_slides: ''
