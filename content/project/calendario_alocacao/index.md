@@ -43,17 +43,17 @@ consulta a gestores de recursos hídricos (COGERH e SRH) e da observação e
 participação de parte das etapas da alocação negociada de água, caracterizamos o
 processo atual em oito etapas, detalhadas a seguir:
 
-(1) Reunião do Conselho Estadual de Recursos Hídricos: realizada logo após o final
+- (1) Reunião do Conselho Estadual de Recursos Hídricos: realizada logo após o final
 da quadra chuvosa, tem o objetivo de definir as faixas de volumes alocáveis
 entre regiões hidrográficas ou reservatórios estratégicos estaduais para alocação
 de água
-(2) Reunião de preparação de diretrizes e parâmetros
-(3) Reuniões com os comitês de bacia
-(4) Reuniões de alocação dos vales perenizados
-(5) Comissão de acompanhamento da operação do segundo semestre
-(6) Avaliação da operação do segundo semestre do ano anterior (julho a dezembro)
-(7) Operação de emergência do primeiro semestre
-(8) Comissão de acompanhamento da operação emergencial do primeiro semestre
+- (2) Reunião de preparação de diretrizes e parâmetros
+- (3) Reuniões com os comitês de bacia
+- (4) Reuniões de alocação dos vales perenizados
+- (5) Comissão de acompanhamento da operação do segundo semestre
+- (6) Avaliação da operação do segundo semestre do ano anterior (julho a dezembro)
+- (7) Operação de emergência do primeiro semestre
+- (8) Comissão de acompanhamento da operação emergencial do primeiro semestre
 
 ![Image alt](calendario_alocacao_versao3.png)
 

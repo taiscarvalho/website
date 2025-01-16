@@ -16,8 +16,8 @@ image:
 links:
   - icon: browser
     icon_pack: fab
-    name: Report
-    url: ''
+    name: Reports
+    url: 'https://aguacientistachefe.ufc.br/projetos/alocar/relatorio-alocar/'
 url_code: ''
 url_pdf: ''
 url_slides: ''
