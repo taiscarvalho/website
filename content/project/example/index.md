@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: browser
     icon_pack: fab
-    name: Follow
-    url: 
+    name: Media
+    url: 'https://www.globalwaterforum.org/2024/08/14/water-allocation-decisions-have-become-increasingly-participatory-in-northeast-brazil-but-powerful-actors-still-dominate-discussions/'
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -27,7 +27,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 Participatory water management has been gradually adopted worldwide, but evaluating its long-term implementation remains challenging. Fortunately, processes involved in participatory water management are frequently documented in reports, management plans, and meeting minutes, which can now be analyzed with natural language processing methods. Here, we explore how text data can provide insights into topics and stakeholders involved in water allocation. By investigating the minutes of water basin committee meetings in the Brazilian state of Ceará, we show how the participatory water allocation process has included more diverse stakeholders over the last 25 years. However, powerful actors continue to exert significant influence in these discussions.
