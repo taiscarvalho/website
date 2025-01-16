@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: A text analysis of 25 years of stakeholder meetings
 summary: Water allocation decisions have become increasingly participatory in Northeast Brazil, but powerful actors still dominate discussions.
 tags:
   - Water allocation
