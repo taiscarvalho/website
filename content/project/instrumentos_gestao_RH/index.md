@@ -67,3 +67,5 @@ anos 90 e início dos anos 2000: o usuário prefere assumir o risco de sofrer sa
 Entretanto, essa atitude pode mudar em períodos de seca, quando o usuário se interessa pela regularização dos seus usos através da outorga para “garantir” o fornecimento de
 água. Esta observação pode ser constatada pelo crescimento do número de outorgas
 concedidas durante a seca de 2012-2018.
+
+![Image alt](n_outorgas_concedidas_mensal_continuous.png)
