@@ -17,7 +17,7 @@ links:
   - icon: browser
     icon_pack: fab
     name: Media
-    url: 'https://www.globalwaterforum.org/2024/08/14/water-allocation-decisions-have-become-increasingly-participatory-in-northeast-brazil-but-powerful-actors-still-dominate-discussions/'
+    url: ''
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -35,6 +35,6 @@ Drought is a natural hazard with complex socioeconomic impacts and influences on
 
 We propose two types of drought preparedness plans: (1) Socio-technical–built only from the tacit knowledge of the system operators, which needs only two days to be ready; and (2) Socio-technical with modeling-intensive simulation—a more robust methodology that adds hydrologic and hydraulic modeling to the existing tacit knowledge. 
 
-![Image alt](Hidrossistema-Curemas_MaeDagua.jpg)
+![Image alt](Hidrossistema-Curemas_MaeDagua.png)
 
-![Image alt](Sistema_de_abastecimento-Caico.jpg)
+![Image alt](Sistema_de_abastecimento-Caico.png)
