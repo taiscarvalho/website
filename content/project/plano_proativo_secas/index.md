@@ -16,8 +16,8 @@ image:
 links:
   - icon: browser
     icon_pack: fab
-    name: Media
-    url: ''
+    name: Paper
+    url: 'https://link.springer.com/article/10.1007/s11069-022-05633-z'
 url_code: ''
 url_pdf: ''
 url_slides: ''
