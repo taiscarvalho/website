@@ -1,6 +1,6 @@
 ---
-title: A dinâmica entre a alocação negociada de água e os instrumentos de gestão de recursos hídricos no Ceará
-summary: O processo de alocação negociada, conduzido anualmente pela COGERH após a estação chuvosa, é o elemento-chave do processo de participação social na gestão de recursos hídricos.
+title: The dynamics between negotiated water allocation and water resource management instruments in Ceará
+summary: The negotiated allocation process, conducted annually by COGERH after the rainy season, is the key element of social participation in water resources management in the Brazilian semiarid. Text in Portuguese.
 tags:
   - Water allocation
 date: '2016-04-27T00:00:00Z'
