@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Taís Carvalho
+title: Taís N. Carvalho
 
 # Full name (for SEO)
 first_name: Taís Maria
