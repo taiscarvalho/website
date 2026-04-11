@@ -18,8 +18,8 @@ role: Postdoc researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: ScaDS.AI ⎪ Leipzig University
-    url: https://scads.ai
+  - name: Helmholtz Center for Environmental Research
+    url: https://www.ufz.de/index.php?en=50450
 
 # Short bio (displayed in user profile at end of posts)
 bio: I like to explore unusual data sources to support water resources planning and management and natural hazards research.
@@ -79,5 +79,5 @@ highlight_name: true
 
 
 
-I am a researcher in the Earth and Environmental Sciences group at the Center for Scalable Data Analytics and Artificial Intelligence from Leipzig University. I am also associated with the Helmholtz Center for Environmental Research. My research integrates data science methods, including machine learning, optimization, and text mining, to water resources planning and management. My current work is focused on identifying the cascading impacts of natural hazards using text data.
+I am a researcher in the Helmholtz Center for Environmental Research. My research integrates data science methods, including machine learning, optimization, and text mining, to support water resources planning and management. My current work is focused on identifying the cascading impacts of natural hazards using text data.
 {style="text-align: justify; margin-top: 20px;"}
