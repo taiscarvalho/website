@@ -205,6 +205,13 @@ sections:
       filters:
         folders:
           - project
+  - block: collection
+    id: supervisions
+    content:
+      title: Supervisions
+      filters:
+        folders:
+          - supervisions
        #Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
        #Filter toolbar (optional).
