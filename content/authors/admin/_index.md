@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Taís N. Carvalho
+title: Taís M. N. Carvalho
 
 # Full name (for SEO)
 first_name: Taís Maria
@@ -14,10 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoc researcher
+role: Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: Universidade de São Paulo
+    url: https://pha.poli.usp.br
   - name: Helmholtz Center for Environmental Research
     url: https://www.ufz.de/index.php?en=50450
 
@@ -79,5 +81,5 @@ highlight_name: true
 
 
 
-I am a researcher in the Helmholtz Center for Environmental Research. My research integrates data science methods, including machine learning, optimization, and text mining, to support water resources planning and management. My current work is focused on identifying the cascading impacts of natural hazards using text data.
+I am a professor of Environmental Engineering at the University of São Paulo. I am also a guest researcher in the Helmholtz Center for Environmental Research. My research integrates data science methods, including machine learning, optimization, and text mining, to support climate risk assessment, water resources planning and management, and urban sustainability.
 {style="text-align: justify; margin-top: 20px;"}
