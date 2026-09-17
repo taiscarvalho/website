@@ -1,5 +1,5 @@
 ---
-title: 'Isabela B.'
+title: 'Isabela Burattini, research internship'
 
 event: Inequalities in climate change research co-authorship networks deepen despite growing South-North engagement
 #event_url: https://www.tu.berlin/en/swn/study-and-teaching/courses/advances-in-water-management-and-climate-adaptation
