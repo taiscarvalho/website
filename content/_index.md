@@ -206,10 +206,8 @@ sections:
         folders:
           - project
     design:
-       #Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+´      columns: '1'
       view: showcase
-      # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
     id: supervisions
@@ -220,7 +218,7 @@ sections:
           - supervisions
     design:
        #Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
