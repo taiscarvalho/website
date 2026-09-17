@@ -8,10 +8,8 @@ event: 'Crisis-resilient and sustainable management of water supply infrastructu
 #address:
 #  country: Germany
 
-summary: 'The dissertation will investigate the impacts of compounding drought and heat events on urban-rural water transfer infrastructure, using Germany's central dry region as a study area.'
-abstract: 'The dissertation will investigate the impacts of compounding drought and heat events on urban-rural water transfer infrastructure, using Germany's central dry region as a study area. The analysis will be based on past drought events and model deep scenario uncertainty
-under climate change and socioeconomic decisions. With a transdisciplinary focus, the
-research will develop a multi-level, multi-criteria optimization tool for infrastructure planning, management and investments to increase urban-rural supply resilience in scarcity crises.'
+summary: "The dissertation will investigate the impacts of compounding drought and heat events on urban-rural water transfer infrastructure, using Germany's central dry region as a study area."
+abstract: "The dissertation will investigate the impacts of compounding drought and heat events on urban-rural water transfer infrastructure, using Germany's central dry region as a study area. The analysis will be based on past drought events and model deep scenario uncertainty under climate change and socioeconomic decisions. With a transdisciplinary focus, the research will develop a multi-level, multi-criteria optimization tool for infrastructure planning, management and investments to increase urban-rural supply resilience in scarcity crises."
 #![Image alt](banner.png)'
 
 # Talk start and end times.
