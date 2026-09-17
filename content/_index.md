@@ -206,7 +206,7 @@ sections:
         folders:
           - project
     design:
-´      columns: '1'
+      columns: '1'
       view: showcase
       flip_alt_rows: false
   - block: collection
