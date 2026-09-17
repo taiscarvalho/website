@@ -1,8 +1,7 @@
 ---
 title: 'Michelle Grunwald, PhD student'
 
-event: Crisis-resilient and sustainable management of water supply infrastructure under deep
-uncertainty
+event: 'Crisis-resilient and sustainable management of water supply infrastructure under deep uncertainty'
 #event_url: https://www.tu.berlin/en/swn/study-and-teaching/courses/advances-in-water-management-and-climate-adaptation
 
 #location: Online
